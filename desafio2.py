@@ -164,4 +164,4 @@ while True:
     elif opcion==5:
         buscar_elemento(productos)
     elif opcion==6:
-        pass
+        break
